@@ -10,7 +10,7 @@
             <h5>Email: <a href="mailto:mansihamandhai2001@gmail.com">mansihamandhai2001@gmail.com</a></h5>
             <h5>Phone: <a href="tel:+917970204354">+91 7970204354</a></h5>
             
-            
+            <img src="Resume/Assets/Images/WhatsApp Image 2023-12-14 at 14.17.48.jpeg" alt="Manisha Mandhani"  width="100" height="150"/>
             <H3>Summary</H3>
             <p>Motivated and detail-oriented B.Com Computer Applications student with a passion for front-end
                 development seeking a challenging opportunity to contribute to the development of visually
